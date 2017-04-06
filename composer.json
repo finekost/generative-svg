@@ -1,0 +1,9 @@
+{
+  "require": {
+    "malenki/math": "dev-master",
+    "jangobrick/php-svg": "dev-master"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~5.7"
+  }
+}
