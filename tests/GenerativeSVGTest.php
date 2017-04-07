@@ -12,5 +12,4 @@ class GenerativeSVGTest extends TestCase
     $SUT = new GenerativeSVG();
     $this->assertEquals(true, $SUT->test());
   }
-
 }
