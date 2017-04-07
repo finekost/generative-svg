@@ -10,6 +10,6 @@ class GenerativeSVGTest extends TestCase
   public function testPhpunit()
   {
     $SUT = new GenerativeSVG();
-    $this->assertEquals(false, $SUT->test());
+    $this->assertEquals(true, $SUT->test());
   }
 }
